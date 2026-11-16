@@ -2,12 +2,16 @@
 
 ## Deliverable and confirmed business details
 
-This repository contains 16 complete Markdown article drafts: 12 for NAVION 3D and 4 for the NAVION ROBOTICS companion research project. This is content for integration, not an application or a deployed blog.
+This repository contains 18 complete Markdown article drafts: 13 for NAVION 3D and 5 for the NAVION ROBOTICS companion research project. This is content for integration, not an application or a deployed blog.
 
 - NAVION 3D is based in **Kumbakonam**, serves **Thanjavur**, and ships across **Tamil Nadu**. This owner correction overrides the older Thanjavur-base wording observed on the shop.
 - Hosting is cPanel; the underlying shop application and its document root have not been inspected.
 - The companion is in research and concept development. There is no companion product for sale. These articles discuss questions and hypothetical scenarios, not tested capabilities.
 - Proposed destinations: commercial articles on `shop.navionrobotics.com/blog/`; research articles on `navionrobotics.com/blog/`.
+
+## Live copy conflict rechecked 16 November 2026
+
+The [shop printing page](https://shop.navionrobotics.com/3d-printing) still describes Thanjavur as the base and says project prints are fulfilled by agreed local pickup there. This conflicts with the owner's instructions: Kumbakonam base, service to Thanjavur, and shipping across Tamil Nadu. Align the live location and fulfilment copy with the owner-confirmed arrangements during integration; confirm any project-specific shipping conditions rather than inferring them from the old page. No live copy was edited by the weekly content task.
 
 ## Files to use
 
@@ -35,7 +39,7 @@ This repository contains 16 complete Markdown article drafts: 12 for NAVION 3D a
 
 ## Acceptance criteria
 
-- All 16 articles have working public URLs, appropriate host placement, complete body content and correct metadata.
+- All articles listed in the current metadata have working public URLs, appropriate host placement, complete body content and correct metadata.
 - No article implies a Thanjavur office or an available companion robot.
 - Related links resolve to published pages; unpublished articles are not presented as live links.
 - Site navigation reaches both blog indexes and the relevant service or survey pages.
@@ -47,4 +51,4 @@ The owner requested weekly GitHub additions: one article about 3D printing and o
 
 ## Sharing
 
-The repository is intended to be private initially. The owner can grant Jameel repository access, or download and share a ZIP. No collaborator invitation has been sent by this task.
+The repository is public at the owner’s request. Jameel can read and download the content without an invitation. Write access remains separately controlled; no collaborator invitation has been sent by this task.

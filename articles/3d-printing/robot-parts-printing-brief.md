@@ -26,3 +26,4 @@ These are planning examples, not claims that NAVION has tested a particular robo
 
 - [Personalised Name Keychains: What to Check Before Ordering](personalised-name-keychain-ordering.md)
 - [How to Choose a Photo for a Lithophane Gift](choose-photo-lithophane.md)
+- [Why Print Orientation Matters for Strength and Surface Finish](print-orientation-strength-surface-finish.md)

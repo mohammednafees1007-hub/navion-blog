@@ -80,7 +80,8 @@
     "word_count": 307,
     "related_slugs": [
       "personalised-name-keychain-ordering",
-      "choose-photo-lithophane"
+      "choose-photo-lithophane",
+      "print-orientation-strength-surface-finish"
     ]
   },
   {
@@ -178,7 +179,8 @@
     "word_count": 316,
     "related_slugs": [
       "companion-robot-privacy-questions",
-      "physical-companion-or-phone-app"
+      "physical-companion-or-phone-app",
+      "when-reminders-become-interruptions"
     ]
   },
   {
@@ -218,6 +220,34 @@
     "proposed_url": "https://navionrobotics.com/blog/useful-companion-research-feedback",
     "status": "draft",
     "word_count": 327,
+    "related_slugs": [
+      "companion-robot-research-questions",
+      "companion-robot-privacy-questions"
+    ]
+  },
+  {
+    "slug": "print-orientation-strength-surface-finish",
+    "title": "Why Print Orientation Matters for Strength and Surface Finish",
+    "meta_description": "Learn what to tell your print reviewer about load direction, visible surfaces and fit before choosing a model orientation.",
+    "category": "3d-printing",
+    "file": "articles/3d-printing/print-orientation-strength-surface-finish.md",
+    "proposed_url": "https://shop.navionrobotics.com/blog/print-orientation-strength-surface-finish",
+    "status": "draft",
+    "word_count": 544,
+    "related_slugs": [
+      "robot-parts-printing-brief",
+      "first-print-to-revised-prototype"
+    ]
+  },
+  {
+    "slug": "when-reminders-become-interruptions",
+    "title": "When Does a Helpful Reminder Become an Interruption?",
+    "meta_description": "Explore reminder timing, quiet interactions and easy dismissal as research questions for a future NAVION companion concept.",
+    "category": "companion-research",
+    "file": "articles/companion-research/when-reminders-become-interruptions.md",
+    "proposed_url": "https://navionrobotics.com/blog/when-reminders-become-interruptions",
+    "status": "draft",
+    "word_count": 565,
     "related_slugs": [
       "companion-robot-research-questions",
       "companion-robot-privacy-questions"

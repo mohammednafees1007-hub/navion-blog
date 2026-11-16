@@ -26,3 +26,4 @@ There is no promise that a particular suggestion will become a feature. The purp
 
 - [Privacy Questions to Ask About a Desk Companion Robot](companion-robot-privacy-questions.md)
 - [A Physical Companion or a Phone App: What Would Make the Difference?](physical-companion-or-phone-app.md)
+- [When Does a Helpful Reminder Become an Interruption?](when-reminders-become-interruptions.md)
